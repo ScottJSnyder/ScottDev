@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/appsymphony-console/static/css/main.1989bbbd.chunk.css",
+    "main.js": "/appsymphony-console/static/js/main.4b5b2617.chunk.js",
+    "main.js.map": "/appsymphony-console/static/js/main.4b5b2617.chunk.js.map",
+    "runtime-main.js": "/appsymphony-console/static/js/runtime-main.0f47c95f.js",
+    "runtime-main.js.map": "/appsymphony-console/static/js/runtime-main.0f47c95f.js.map",
+    "static/css/2.f4d24185.chunk.css": "/appsymphony-console/static/css/2.f4d24185.chunk.css",
+    "static/js/2.078ffaaf.chunk.js": "/appsymphony-console/static/js/2.078ffaaf.chunk.js",
+    "static/js/2.078ffaaf.chunk.js.map": "/appsymphony-console/static/js/2.078ffaaf.chunk.js.map",
+    "index.html": "/appsymphony-console/index.html",
+    "precache-manifest.243bf8c0868320e478667395d9579c9b.js": "/appsymphony-console/precache-manifest.243bf8c0868320e478667395d9579c9b.js",
+    "service-worker.js": "/appsymphony-console/service-worker.js",
+    "static/css/2.f4d24185.chunk.css.map": "/appsymphony-console/static/css/2.f4d24185.chunk.css.map",
+    "static/css/main.1989bbbd.chunk.css.map": "/appsymphony-console/static/css/main.1989bbbd.chunk.css.map",
+    "static/js/2.078ffaaf.chunk.js.LICENSE.txt": "/appsymphony-console/static/js/2.078ffaaf.chunk.js.LICENSE.txt",
+    "static/media/dx.light.css": "/appsymphony-console/static/media/dxicons.2b145cef.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f47c95f.js",
+    "static/css/2.f4d24185.chunk.css",
+    "static/js/2.078ffaaf.chunk.js",
+    "static/css/main.1989bbbd.chunk.css",
+    "static/js/main.4b5b2617.chunk.js"
+  ]
+}
